@@ -49,6 +49,7 @@ a{
     color: black;
     text-align: center;
     border: 2px solid rgb(184, 184, 184);
+    border-radius: 20px;
     flex-wrap: wrap;
   }
 
