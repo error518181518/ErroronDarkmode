@@ -79,6 +79,7 @@ a{
 
 .warn {
     border: 2px solid black;
+    border-radius: 20px;
 }
 
 ::-webkit-scrollbar {
